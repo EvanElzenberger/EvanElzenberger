@@ -58,9 +58,9 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+</a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
   </a>
