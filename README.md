@@ -4,7 +4,7 @@
 🎓 Business Information & Analytics | Minor in Finance  
 🔧 Oilfield pro pivoting to finance, trading & data  
 📈 Building financial models daily to level up in quant finance  
-🧠 Learning Python, SQL, and analytics tooling daily
+🧠 Learning Python, SQL, and analytics tooling daily  
 🎮 Also working on a game with C++ and Unity  
 ⚡ Fun fact: I love a good machine!
 
