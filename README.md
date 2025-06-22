@@ -86,8 +86,3 @@
 - 🗂️ [Full Project Showcase](https://github.com/EvanElzenberger/ProjectShowcase)  
 - 💼 [LinkedIn](https://linkedin.com/in/evan-e-9aa9811b8)
 
-<p align="left">
-  <a href="https://linkedin.com/in/evan-e-9aa9811b8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan elzenberger" height="30" width="40" />
-  </a>
-</p>
