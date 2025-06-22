@@ -82,7 +82,7 @@
 
 ## 🤝 Connect with Me
 
-- 📫 Email: **evan.elzenberger@live.com**  
+- 📫 Email: **evan.elzenberger@du.edu**  
 - 🗂️ [Full Project Showcase](https://github.com/EvanElzenberger/ProjectShowcase)  
 - 💼 [LinkedIn](https://linkedin.com/in/evan-e-9aa9811b8)
 
