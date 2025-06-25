@@ -13,7 +13,7 @@
 ## 📁 Project Showcase
 
 ### 🎯 Personal Projects
-- 🔌 **Charles Schwab API**
+- 🔌 [Charles Schwab API](https://github.com/EvanElzenberger/SchwabAPI/tree/main)
 - 📊 **Automated Financial Modeling**
 
 ### 🎓 University of Denver — Data Analytics
