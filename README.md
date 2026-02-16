@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Evan Elzenberger</h1>
 <h3 align="center">Data Enthusiast based in Denver</h3>
 
-🎓 Business Information & Analytics | Minor in Finance  
+🎓 Business Information & Analytics | Minor in Finance 
+
 📈 Building financial models
+
 🧠 Learning Python, SQL, and analytics
-⚡ Fun fact: I love a good machine!
+
+Fun fact: I love a good machine!
 
 ---
 
