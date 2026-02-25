@@ -1,36 +1,36 @@
 <h1 align="center">Hi 👋, I'm Evan Elzenberger</h1>
 <h3 align="center">Data Enthusiast based in Denver</h3>
 
-🎓 Business Information & Analytics | Minor in Finance 
+Business Information & Analytics | Minor in Finance 
 
-📈 Building financial models
+Building financial models
 
-🧠 Learning Python, SQL, and analytics
+Learning Python, SQL, and analytics
 
 Fun fact: I love a good machine!
 
 ---
 
-## 📁 Project Showcase
+## Project Showcase
 
-### 🎯 Personal Projects
-- 🔌 [Charles Schwab API](https://github.com/EvanElzenberger/SchwabAPI/tree/main)
-- 📊 **Automated Financial Modeling**
+### Personal Projects
+- [Charles Schwab API](https://github.com/EvanElzenberger/SchwabAPI/tree/main)
+-  **Automated Financial Modeling**
 
-### 🎓 University of Denver — Data Analytics
-- [🧾 Unstructured Data Analytics](https://github.com/EvanElzenberger/UnstructuredDataAnalytics)
-- [📈 Optimization Modeling](https://github.com/EvanElzenberger/OptimizationModeling)
-- [🏗️ Data Warehousing and Visualization](https://github.com/EvanElzenberger/DataWarehousing)
-- [⚽ Sports Analytics](https://github.com/EvanElzenberger/SportsAnalytics)
+### University of Denver — Data Analytics
+- [ Unstructured Data Analytics](https://github.com/EvanElzenberger/UnstructuredDataAnalytics)
+- [ Optimization Modeling](https://github.com/EvanElzenberger/OptimizationModeling)
+- [ Data Warehousing and Visualization](https://github.com/EvanElzenberger/DataWarehousing)
+- [Sports Analytics](https://github.com/EvanElzenberger/SportsAnalytics)
 
-### 💰 University of Denver — Finance
-- [🌍 Multinational Financial Management](https://github.com/EvanElzenberger/MultinationalFinancialManagement)
-- [🏢 Corporate Financial Problems](https://github.com/EvanElzenberger/CorporateFinancialProblems)
-- [📉 Investments](https://github.com/EvanElzenberger/Investments)
+### University of Denver — Finance
+- [Multinational Financial Management](https://github.com/EvanElzenberger/MultinationalFinancialManagement)
+- [Corporate Financial Problems](https://github.com/EvanElzenberger/CorporateFinancialProblems)
+- [Investments](https://github.com/EvanElzenberger/Investments)
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 <p align="left">
   <!-- Programming Languages -->
