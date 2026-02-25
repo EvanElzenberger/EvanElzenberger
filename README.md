@@ -3,10 +3,6 @@
 
 Business Information & Analytics | Minor in Finance 
 
-Building financial models
-
-Learning Python, SQL, and analytics
-
 Fun fact: I love a good machine!
 
 ---
